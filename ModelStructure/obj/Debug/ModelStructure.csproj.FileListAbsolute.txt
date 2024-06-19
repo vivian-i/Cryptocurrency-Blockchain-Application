@@ -1,0 +1,12 @@
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\bin\Debug\ModelStructure.dll
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\bin\Debug\ModelStructure.pdb
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\obj\Debug\ModelStructure.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\obj\Debug\ModelStructure.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\obj\Debug\ModelStructure.dll
+C:\Users\Vi\source\repos\BlockchainApplication\ModelStructure\obj\Debug\ModelStructure.pdb
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\bin\Debug\ModelStructure.dll
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\bin\Debug\ModelStructure.pdb
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\obj\Debug\ModelStructure.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\obj\Debug\ModelStructure.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\obj\Debug\ModelStructure.dll
+C:\Users\Vi\source\repos\Cryptocurrency-Blockchain-Application\ModelStructure\obj\Debug\ModelStructure.pdb
